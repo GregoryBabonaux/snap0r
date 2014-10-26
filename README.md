@@ -1,4 +1,10 @@
-# Blank Intel XDK and Apache Cordova Project
+# Demo Intel XDK : Snap0r
+
+Snap0r répond à un besoin inexistant sur le marché des applications mobile : il permet de prendre une photo, et de ne plus rien en faire par la suite.
+
+De nombreux utilisateurs prennent quantité de photos qu’ils ne regarderont de toutes façons jamais, ou sont soumis à une pression incroyable pour prendre en photo des amis dans des situations de beuveries dramatiques, des photos de la famille éloignée dans le Pas de Calais, un monument aussi intéressant qu’un plug anal vert, ou leur étron matinal (ce qui finalement, serait la suite logique des choses), alors que finalement, eh bien, tout le monde s’en tape le gros orteil sur une table de ping pong.
+
+Snap0r, pour vos moments pas en or.
 
 See [LICENSE.md][] for license terms and conditions.
 
